@@ -55,4 +55,4 @@ This repository handles the backend architecture for **DilSeConnect**, ensuring 
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/dilseconnect-backend.git
+   git clone https://github.com/TheQuantumn/dilseconnect-backend.git
